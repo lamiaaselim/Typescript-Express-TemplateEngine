@@ -41,7 +41,7 @@ This project is a backend application built with TypeScript, Node.js, Express.js
 - **MVC Architecture**:
 
   ```sh
-  SSR-ExpressJS/
+  APP/
   ├── controllers/ # Controllers for handling requests
   ├── middlewares/ # Custom middleware
   ├── models/ # Database models
