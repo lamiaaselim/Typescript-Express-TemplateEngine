@@ -12,11 +12,11 @@ This project is a backend application built with TypeScript, Node.js, Express.js
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/lamiaaselim/SSR-ExpressJS.git
+   git clone https://github.com/lamiaaselim/Typescript-Express-TemplateEngine
    ```
 2. Navigate to the project directory:
    ```sh
-   cd SSR-ExpressJS
+   cd APP
    ```
 3. Install dependencies:
    ```sh
